@@ -16,54 +16,39 @@ Axios: GitHub API'ından veri çekmek için kullanıldı.
 
 FontAwesome: İkonları görsel olarak zenginleştirmek için kullanıldı.
 
-# 🔍 Proje Özellikleri
+# 🔍 Proje Özellikleri:
+🧑‍💻 GitHub Profil Bilgilerini Çekme
+Profil Bilgileri
+📸 Profil Fotoğrafı
+👥 Takipçi Sayısı
+👤 Takip Edilen Kişi Sayısı
+📦 Depo Sayısı
+📝 Kısa Biyografi Bilgileri
+🔝 En Çok Öne Çıkan 3 Depoyu Listeleme.
+Hata Durumunda:⚠️ Kullanıcıyı Bilgilendirme
 
-Kullanıcı adıyla GitHub profil bilgilerini çekme.
+# 🔗 Kaynaklar:
+🐙 GitHub API
+🚀 Axios
+🎨 FontAwesome
 
-Kullanıcının:
-
-Profil fotoğrafı.
-
-Takipçi sayısı.
-
-Takip edilen kişi sayısı.
-
-Depo sayısı.
-
-Kısa biyografi bilgileri.
-
-En çok öne çıkan 3 depoyu listeleme.
-
-Hata durumunda kullanıcıyı bilgilendirme.
-
-Modern ve minimalist bir tasarım.
-# 🔗 Kaynaklar
-
-GitHub API
-
-Axios
-
-FontAwesome
-
-# 💚 Yazar
+# 💚 Yazar:
 
 Bu proje, modern web teknolojileri ve tasarım estetiğine tutkulu bir geliştirici tarafından oluşturulmuştur. Daha fazla bilgi için profilime göz atabilirsiniz.
 
-#🎨 Ekran Görüntüleri
-https://github.com/user-attachments/assets/d30ceadd-5b65-4286-97da-02ccd113193a
-
-
-
-
-
- # ✉️ İletişim
+ # ✉️ İletişim:
 Proje hakkında sorularınız veya geri bildirimleriniz için aşağıdaki yöntemlerle benimle iletişime geçebilirsiniz:
 
 📧 E-posta: akgundogduesr@gmail.com
-
-
-
-Hayal gücü için bir ikon eklemek isterseniz, aşağıdaki gibi bir öneri yapabilirim:
-
 💭 "Hayal gücüyle tasarla, kodla hayata geçir."
+#🎨 Ekran Görüntüleri:
+
+
+
+https://github.com/user-attachments/assets/6351ca1c-2ef9-42a5-b2df-1f5c9246d8e2
+
+
+
+
+
 
